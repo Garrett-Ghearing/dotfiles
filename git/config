@@ -1,0 +1,8 @@
+[user]
+	name = Garrett-Ghearing
+	email = ghearing.3@wright.edu
+[core]
+	editor = nano
+	excludesfile = /home/garrett/.gitignore_global
+[help]
+	autocorrect = 1
