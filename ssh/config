@@ -1,0 +1,11 @@
+Host fry
+	User w070gxg
+	HostName fry.cs.wright.edu
+	IdentityFile /home/garrett/.ssh/id_ed25519
+	Port 22
+
+Host 2410
+	User ubuntu
+	HostName 33.17.199.37
+	IdentityFile /home/garrett/keys/gl.pem
+	Port 22
